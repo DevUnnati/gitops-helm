@@ -91,7 +91,7 @@ diagnosticMode:
 image:
   registry: registry-1.docker.io
   repository: bitnami/nginx
-  tag: 1.28.1
+  tag: 22.4.2
   digest: ""
   ## Specify a imagePullPolicy
   ## ref: https://kubernetes.io/docs/concepts/containers/images/#pre-pulled-images
